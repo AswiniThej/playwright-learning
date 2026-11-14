@@ -7,4 +7,4 @@ I have 11 years of manual QA experience and am learning Playwright with TypeScri
 
 ## Day 2 practice
 
-I created this repository and a practice branch.c
+I created this repository and a practice branch.
